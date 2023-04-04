@@ -1,5 +1,5 @@
 # WSI
-<h2>wstep do sztucznej inteligencji<h2>
+<h2>AI introductory course<h2>
 
 
 
