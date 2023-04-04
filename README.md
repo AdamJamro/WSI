@@ -1,9 +1,10 @@
 # WSI
 <h2>wstep do sztucznej inteligencji<h2>
 
-<sub>structure:</sub>
 
-> 1. wsi1
+
+<sub>wsi1</sub>
+
 > ### Solver for a 15 - game
 >
 > program uses A* algorithm to find optimal path from input permutation.
@@ -15,6 +16,7 @@
 > - mocked walking distance
 
 
-> 2. wsi2
+<sub>wsi2</sub>
+
 > ### Alfa-beta
 > in progress.
