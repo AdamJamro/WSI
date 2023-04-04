@@ -14,6 +14,8 @@
 > - half manhattan distance with linear conflict
 > - inversion distance
 > - mocked walking distance
+>
+> <sub>game is also resizable and could work for any 2k-1 - game<sub/>
 
 
 <sub>wsi2</sub>
