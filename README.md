@@ -3,7 +3,7 @@
 
 
 
-<sub>wsi1</sub>
+<sub>[wsi1](./wsi1)</sub>
 
 > ### Solver for a 15 - game
 >
@@ -18,7 +18,7 @@
 > <sub>game is also resizable and could work for any 2k-1 - game<sub/>
 
 
-<sub>wsi2</sub>
+<sub>[wsi2](./wsi2)</sub>
 
 > ### Alfa-beta
 > in progress.
